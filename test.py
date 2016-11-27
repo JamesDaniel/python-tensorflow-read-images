@@ -1,3 +1,4 @@
+#https://codedump.io/share/Hfd33dNlMkHT/1/tensorflow-read-images-with-labels
 import tensorflow as tf
 import numpy as np
 
